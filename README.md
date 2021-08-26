@@ -8,4 +8,4 @@
 
 > **My native language is Portuguese, but i also speak English pretty well;**
 
-> **[Check out my Website! (currently in development)](htttps://starmain.dev)**
+> **<a href="https://starmain.dev">Check out my Website!</a>**
