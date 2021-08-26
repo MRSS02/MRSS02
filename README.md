@@ -1,1 +1,11 @@
-profile README example
+# MRSS02
+
+> **Web Developer, currently working on Front-End applications, mainly with React.js; 
+
+> **Indie game developer on free time(I use RPG Maker MV but it isn't reeally that bad);**
+
+> **I have some experience with HTML, CSS, client-Side Javascript, server-side Javascript with Node.js;** 
+
+> **My native language is Portuguese, but i also speak English pretty well;**
+
+> **[Check out my Website! (currently in development)](htttps://starmain.dev)**
