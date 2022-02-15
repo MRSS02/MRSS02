@@ -2,7 +2,7 @@
 
 > **Web Developer, currently working on Front-End applications, mainly with React.js;** 
 
-> **Indie game developer on free time(I use RPG Maker MV but it isn't reeally that bad);**
+> **Indie game developer on free time;**
 
 > **I have some experience with HTML, CSS, client-Side Javascript, server-side Javascript with Node.js;** 
 
