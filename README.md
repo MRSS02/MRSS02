@@ -1,6 +1,6 @@
 # MRSS02
 
-> **Web Developer, currently working on Front-End applications, mainly with React.js;** 
+> **Web Developer, having working on Front-End applications, mainly with React.js;** 
 
 > **Indie game developer on free time (but i've only made free games as a hobby until now);**
 
